@@ -64,7 +64,8 @@ React Native is developed and supported by many companies and individual core co
 - [How to Contribute](#-how-to-contribute)
 - [Code of Conduct](#code-of-conduct)
 - [License](#-license)
-
+- [Brew](#-brew)
+- [Unity](#-unity)
 
 ## 📋 Requirements
 
